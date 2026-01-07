@@ -1,1 +1,1 @@
-# test.py
+print("으라차차")
